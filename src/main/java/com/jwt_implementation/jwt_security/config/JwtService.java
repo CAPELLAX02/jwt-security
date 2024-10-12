@@ -17,7 +17,7 @@ public class JwtService {
     private String JWT_SECRET_KEY;
 
     public String extractUsername(String token) {
-        return null;
+        return extractClaim(token, Claims::getSubject);
     }
 
     public <T> T extractClaim(
