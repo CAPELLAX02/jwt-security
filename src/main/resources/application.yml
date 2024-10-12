@@ -13,3 +13,5 @@ spring:
         format_sql: true
     database: postgresql
     database-platform: org.hibernate.dialect.PostgreSQLDialect
+
+JWT_SECRET_KEY: 542376a94fd702ef89315425a86dc157c7dc9eb8cad7cb987d1694e1baaf98bf
