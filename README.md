@@ -1,2 +1,2 @@
 
-![Project Structure](src/main/resources/static/database_diagram.png)
+![Project Structure](src/main/resources/static/jwt-security.jpg)
