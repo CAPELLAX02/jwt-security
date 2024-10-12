@@ -1,3 +1,2 @@
-## Project Structure
 
-<img alt="project-structure" src="src/main/resources/static/jwt-security.jpg">
+![Project Structure](src/main/resources/static/database_diagram.png)
